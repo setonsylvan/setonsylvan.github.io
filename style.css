@@ -758,13 +758,14 @@ a:hover.blue_arrow {color: rgb(255,255,255); background-position: 80px 6px}
 
 
 a.button_blue, #primary a.button_blue, .wpcf7-submit, .mmf-form input[type="submit"], a.button_grey {
-   display: block; 
+   display: inline-block; 
    /* height: 32px;  */
    width: 118px; 
    font-size: 14px; 
    line-height: 33px; 
    color:rgb(255,255,255); 
    margin-top: 10px; 
+
    text-decoration: none; 
    text-align: center; 
       -moz-border-radius: 3px; 
