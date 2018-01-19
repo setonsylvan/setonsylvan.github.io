@@ -3308,7 +3308,7 @@ and (max-width : 700px) {
    
    #site-title {
       height: 60px;
-      background: url("img/logo.gif") 5% 12px no-repeat;
+      background: url("img/logo_small.png") 5% 12px no-repeat;
       padding: 0;
       width: 100%;
    }
