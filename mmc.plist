@@ -14,6 +14,17 @@
                     <string>https://setonsylvan.github.io/mmcd.ipa</string>
                 </dict>
             </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.ceton.companion</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>my MMC</string>
+            </dict>
         </dict>
     </array>
 </dict>
