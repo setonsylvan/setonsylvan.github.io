@@ -4005,8 +4005,8 @@ and (max-width : 968px) and (min-width: 701px) {
    }
    
    #site-title {
-      height: 60px;
-      background: url(img/logo.gif) 5% 28px no-repeat;
+      height: 70px;
+      background: url(img/logo_small.png) 5% 28px no-repeat;
       padding: 0;
       width: 100%;
    }
